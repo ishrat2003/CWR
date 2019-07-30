@@ -1,2 +1,1 @@
-# CWS
-Peripheral representation of words
+# Peripheral representation of words
